@@ -1,7 +1,7 @@
 # AWS-QuickSight
 
 
-With the help of AWS QuickSight here we can visually see the trends in covid-19 cases.
+With the help of AWS QuickSight here we can visually see Sum of new cases and Deaths daybyday and New cases by continents.
 To create this used KPIs and conditional formatting.
 
 
