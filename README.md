@@ -1,6 +1,8 @@
 # AWS-QuickSight
 
 
-In this dashboard shows trends in Covid-19
+With the help of AWS QuickSight here we can visually see the trends in covid-19 cases.
+It contains KPIs showing
 
-[Sheet_1_2023-06-10T12_47_10.pdf](https://github.com/sheetal76/AWS-QuickSight/files/11721268/Sheet_1_2023-06-10T12_47_10.pdf)
+
+<img width="716" alt="covid-19" src="https://github.com/sheetal76/AWS-QuickSight/assets/122160812/071d33ca-8f16-4c2f-91ae-723c333dec23">
